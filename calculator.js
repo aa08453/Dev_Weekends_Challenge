@@ -63,7 +63,6 @@ function calculate() {
   }
 }
 
-// --- HELPER FUNCTIONS (Missing in your original snippet) ---
 
 function showErr(id, message) {
   const errEl = document.getElementById(id);
